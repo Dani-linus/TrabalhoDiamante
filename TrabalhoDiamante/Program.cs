@@ -12,7 +12,7 @@
                 Console.WriteLine("        Diamante de X      ");
                 Console.WriteLine("----------------------------");
 
-                Console.Write("Digite um número inteiro parar gerar o diamante: ");
+                Console.Write("Digite um número inteiro para gerar o diamante: ");
                 int numero = Convert.ToInt32(Console.ReadLine());
 
                 if (numero % 2 == 1)
